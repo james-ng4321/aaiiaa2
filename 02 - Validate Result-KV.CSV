@@ -1,0 +1,613 @@
+"ResourceName","ResourceGroup","ResourceID","Location","DiagnosticSetting","AllowPublicAccess","RestrictAccess","DisableAccess","WhitelistIP","Tags"
+"kv-hk01-eas-a-ieng-vlt01","rg-hk01-eas-a-e2e-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-a-e2e-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-a-ieng-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           E2E Performance Test         
+IP                            Not Assigned                 
+ApplicationName               E2E Performance Test         
+ibm_imi_managed_env           A                            
+DataClassification            Confidential                 
+AppMSPName                    Kyndryl                      
+ApplicationService            E2E Performance Test         
+ibm_imi_managed               Yes                          
+BusinessOwner                 stanley-sl.lam@aia.com       
+Req                           RITM0157662                  
+CostCenter                    HK010331                     
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2022-02-09T06:20:59.1556478Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   stanley-sl.lam@aia.com       
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+InfraRemark2                  E2E                          
+"
+"kv-hk01-eas-a-imo-vlt01","rg-hk01-eas-a-e2e-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-a-e2e-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-a-imo-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           E2E Performance Test         
+IP                            Not Assigned                 
+ApplicationName               E2E Performance Test         
+ibm_imi_managed_env           A                            
+DataClassification            Confidential                 
+AppMSPName                    Kyndryl                      
+ApplicationService            E2E Performance Test         
+ibm_imi_managed               Yes                          
+BusinessOwner                 stanley-sl.lam@aia.com       
+Req                           RITM0157808                  
+CostCenter                    HK010331                     
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2022-02-09T06:25:36.0047967Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   stanley-sl.lam@aia.com       
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+InfraRemark2                  E2E                          
+"
+"kv-hk01-eas-d-ieng-vlt01","rg-hk01-eas-n-iengage-keyvault01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-iengage-keyvault01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-d-ieng-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+ApplicationName               iEngage                      
+ibm_imi_managed_env           D                            
+CostCenter                    HK010331                     
+AppMSPName                    Kyndryl                      
+DataClassification            Confidential                 
+ibm_imi_managed               Yes                          
+InfraRemark2                  iEngage                      
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-08-19T08:03:00.4425134Z 
+ibm_imi_billing_plan          Monthly                      
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-d-imo-vlt01","rg-hk01-eas-n-imo-keyvault01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-imo-keyvault01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-d-imo-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+ApplicationName               SMART iMO                    
+ibm_imi_managed_env           D                            
+CostCenter                    HK010331                     
+AppMSPName                    Kyndryl                      
+DataClassification            Confidential                 
+ibm_imi_managed               Yes                          
+InfraRemark2                  iMO                          
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-11-16T06:06:04.2442932Z 
+ibm_imi_billing_plan          Monthly                      
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-g-ieng-vlt01","rg-hk01-eas-n-iengage-keyvault01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-iengage-keyvault01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-g-ieng-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+ApplicationName               iEngage                      
+ibm_imi_managed_env           G                            
+CostCenter                    HK010331                     
+AppMSPName                    Kyndryl                      
+DataClassification            Confidential                 
+ibm_imi_managed               Yes                          
+InfraRemark2                  iEngage                      
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-06-22T03:07:02.0527351Z 
+ibm_imi_billing_plan          Monthly                      
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-g-imo-vlt01","rg-hk01-eas-n-imo-keyvault01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-imo-keyvault01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-g-imo-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+ApplicationName               SMART iMO                    
+ibm_imi_managed_env           G                            
+CostCenter                    HK010331                     
+AppMSPName                    Kyndryl                      
+DataClassification            Confidential                 
+ibm_imi_managed               Yes                          
+InfraRemark2                  iMO                          
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-06-22T03:04:50.4405103Z 
+ibm_imi_billing_plan          Monthly                      
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-r-ieng-vlt01","rg-hk01-eas-p-iengage-keyvault01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-p-iengage-keyvault01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-r-ieng-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+ApplicationName               iEngage                      
+ibm_imi_managed_env           R                            
+CostCenter                    HK010331                     
+AppMSPName                    Kyndryl                      
+DataClassification            Confidential                 
+ibm_imi_managed               Yes                          
+InfraRemark2                  iEngage                      
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-08-05T16:46:31.8189984Z 
+ibm_imi_billing_plan          Monthly                      
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-s-ieng-vlt01","rg-hk01-eas-n-iengage-keyvault01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-iengage-keyvault01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-s-ieng-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+ApplicationName               iEngage                      
+ibm_imi_managed_env           S                            
+CostCenter                    HK010331                     
+AppMSPName                    Kyndryl                      
+DataClassification            Confidential                 
+ibm_imi_managed               Yes                          
+InfraRemark2                  iEngage                      
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-26T07:11:44.7993354Z 
+ibm_imi_billing_plan          Monthly                      
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-s-imo-vlt01","rg-hk01-eas-n-imo-keyvault01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-imo-keyvault01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-s-imo-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+ApplicationName               SMART iMO                    
+ibm_imi_managed_env           S                            
+CostCenter                    HK010331                     
+AppMSPName                    Kyndryl                      
+DataClassification            Confidential                 
+ibm_imi_managed               Yes                          
+InfraRemark2                  iMO                          
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-11-16T06:10:46.9653074Z 
+ibm_imi_billing_plan          Monthly                      
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-s-rpa-vlt01","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-s-rpa-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           S                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+CreatedTime                   10/22/2021 17:37:52          
+"
+"kv-hk01-eas-s-rpa-vlt11","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-s-rpa-vlt11","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           S                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+CreatedTime                   10/22/2021 17:37:52          
+"
+"kv-hk01-eas-s-rpa-vlt12","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-s-rpa-vlt12","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           S                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+CreatedTime                   10/22/2021 17:37:52          
+"
+"kv-hk01-eas-s-rpa-vlt13","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-s-rpa-vlt13","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           S                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+CreatedTime                   10/22/2021 17:37:52          
+"
+"kv-hk01-eas-s-rpa-vlt14","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-s-rpa-vlt14","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           S                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+CreatedTime                   10/22/2021 17:37:52          
+"
+"kv-hk01-eas-s-rpa-vlt15","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-s-rpa-vlt15","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           S                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+CreatedTime                   10/22/2021 17:37:52          
+"
+"kv-hk01-eas-s-rpa-vlt16","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-s-rpa-vlt16","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           S                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+CreatedTime                   10/22/2021 17:37:52          
+"
+"kv-hk01-eas-s-rpa-vlt17","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-s-rpa-vlt17","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           S                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+CreatedTime                   10/22/2021 17:37:52          
+"
+"kv-hk01-eas-s-rpa-vlt18","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-s-rpa-vlt18","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           S                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+CreatedTime                   10/22/2021 17:37:52          
+"
+"kv-hk01-eas-u-ieng-vlt01","rg-hk01-eas-n-iengage-keyvault01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-iengage-keyvault01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-u-ieng-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+ApplicationName               iEngage                      
+ibm_imi_managed_env           U                            
+CostCenter                    HK010331                     
+AppMSPName                    Kyndryl                      
+DataClassification            Confidential                 
+ibm_imi_managed               Yes                          
+InfraRemark2                  iEngage                      
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-06-18T07:27:42.3065660Z 
+ibm_imi_billing_plan          Monthly                      
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-u-imo-vlt01","rg-hk01-eas-n-imo-keyvault01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-imo-keyvault01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-u-imo-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+ApplicationName               SMART iMO                    
+ibm_imi_managed_env           U                            
+CostCenter                    HK010331                     
+AppMSPName                    Kyndryl                      
+DataClassification            Confidential                 
+ibm_imi_managed               Yes                          
+InfraRemark2                  iMO                          
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-06-22T06:55:22.0975408Z 
+ibm_imi_billing_plan          Monthly                      
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-u-rpa-vlt01","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-u-rpa-vlt01","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           U                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+CreatedTime                   10/22/2021 17:37:52          
+"
+"kv-hk01-eas-u-rpa-vlt11","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-u-rpa-vlt11","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           U                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+APM No                        APM0001255                   
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-u-rpa-vlt12","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-u-rpa-vlt12","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           U                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+APM No                        APM0001255                   
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-u-rpa-vlt13","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-u-rpa-vlt13","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           U                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+APM No                        APM0001255                   
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-u-rpa-vlt14","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-u-rpa-vlt14","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           U                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+APM No                        APM0001255                   
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-u-rpa-vlt15","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-u-rpa-vlt15","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           U                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+APM No                        APM0001255                   
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-u-rpa-vlt16","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-u-rpa-vlt16","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           U                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+APM No                        APM0001255                   
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-u-rpa-vlt17","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-u-rpa-vlt17","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           U                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+APM No                        APM0001255                   
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-eas-u-rpa-vlt18","rg-hk01-eas-n-rpa-resource01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-n-rpa-resource01/providers/Microsoft.KeyVault/vaults/kv-hk01-eas-u-rpa-vlt18","eastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+BusinessApplication           AIA HONG KONG RPA            
+ApplicationName               AIA HONG KONG RPA            
+ibm_imi_managed_env           U                            
+CostCenter                    HK016016                     
+AppMSPName                    Kyndryl                      
+ApplicationService            AIA Hong Kong RPA-AA         
+ibm_imi_managed               Yes                          
+BusinessOwner                 Chau, Anthony-SH             
+InfraRemark2                  RPA                          
+DataClassification            Confidential                 
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-10-22T09:37:52.7461400Z 
+ibm_imi_billing_plan          Monthly                      
+ServerOwner                   Hung, Willy-WL               
+MaintenanceWindow             FR1 - Every Friday after 1900
+APM No                        APM0001255                   
+BillingRoute                  AIA Hong Kong and Macau      
+"
+"kv-hk01-sea-r-imo-vlt01","rg-hk01-eas-p-imo-keyvault01","/subscriptions/9b491dd6-598e-498c-98a0-d3bbd2290821/resourceGroups/rg-hk01-eas-p-imo-keyvault01/providers/Microsoft.KeyVault/vaults/kv-hk01-sea-r-imo-vlt01","southeastasia","True","True","","","","
+Name                          Value                        
+============================  =============================
+ApplicationName               SMART iMO                    
+ibm_imi_managed_env           R                            
+CostCenter                    HK010331                     
+AppMSPName                    Kyndryl                      
+DataClassification            Confidential                 
+ibm_imi_managed               Yes                          
+InfraRemark2                  iMO                          
+BusinessUnit                  HK                           
+ibm_imi_managedservices_tier  Enterprise                   
+CreatedOnDate                 2021-08-16T06:14:12.3039097Z 
+ibm_imi_billing_plan          Monthly                      
+MaintenanceWindow             FR1 - Every Friday after 1900
+BillingRoute                  AIA Hong Kong and Macau      
+"
